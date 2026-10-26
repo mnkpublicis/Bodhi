@@ -1,0 +1,12 @@
+{
+  "employeeId": "xxx",
+  "firstName": "xxx",
+  "lastName": "xxx",
+  "email": "xxx",
+  "jobTitle": "xxx",
+  "department": "xxx",
+  "employmentType": "xxx",
+  "dateOfJoining": "xxx",
+  "managerId": "xxx",
+  "isActive": true
+}
